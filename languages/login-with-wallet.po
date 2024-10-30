@@ -1,0 +1,1347 @@
+# Copyright (C) 2018 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Login With Wallet\n"
+"Report-Msgid-Bugs-To: https://wedevs.com/account/tickets/\n"
+"POT-Creation-Date: 2022-04-04 14:40+0430\n"
+"PO-Revision-Date: 2022-04-04 14:40+0430\n"
+"Last-Translator: \n"
+"Language-Team: arash@markitdone.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/class-ajax.php:23
+msgid "Invalid request! Reload the page."
+msgstr ""
+
+#: ../inc/class-ajax.php:129
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: ../inc/class-ajax.php:159
+msgid "Please select the modal type"
+msgstr ""
+
+#: ../inc/class-ajax.php:191
+msgid "Please connect your account"
+msgstr ""
+
+#: ../inc/class-ajax.php:209
+#, php-format
+msgid ""
+"This address is already connected to an account! You can log out here and "
+"log in with your wallet. Or, First disconnect your wallet then connect this "
+"(%s ) to this (%s)"
+msgstr ""
+
+#: ../inc/class-ajax.php:218 ../inc/class-ajax.php:375
+msgid "Updated successfully!"
+msgstr ""
+
+#: ../inc/class-ajax.php:239
+msgid "Logged in successfully"
+msgstr ""
+
+#: ../inc/class-ajax.php:245
+msgid "Searching ENS. You will be registered soon."
+msgstr ""
+
+#: ../inc/class-ajax.php:288
+msgid "You are not allowed to register! Contact the administrator."
+msgstr ""
+
+#: ../inc/class-ajax.php:300
+#, php-format
+msgid ""
+"This address is already connected to an account! Please try to log in (%s)"
+msgstr ""
+
+#: ../inc/class-ajax.php:344
+msgid "Registration completed sucessfully!"
+msgstr ""
+
+#: ../inc/class-ajax.php:352
+msgid "Registration is disabled or not allowed via wallet!"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:161 ../templates/settings.php:17
+msgid "Settings"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:174
+#: ../inc/class-login-with-wallet.php:175
+#: ../inc/class-login-with-wallet.php:490
+#: ../inc/class-login-with-wallet.php:501 ../inc/class-widget.php:21
+msgid "Login With Wallet"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:231
+#: ../inc/class-login-with-wallet.php:234
+#: ../inc/class-login-with-wallet.php:385 ../inc/class-widget.php:35
+#: ../inc/class-widget.php:51
+msgid "Connect Wallet"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:257
+msgid "Ethereum Account"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:260
+msgid "Account"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:263
+msgid "This is your Ethereum address"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:384
+msgid "Loading ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:386
+msgid "Log in with Wallet"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:387
+#: ../inc/class-login-with-wallet.php:512
+msgid "Register With Wallet"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:388
+msgid "Disconnect"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:389
+msgid "Logout"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:390
+msgid "Initializing, please wait ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:391
+msgid "Authenticating, please wait ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:392
+msgid "Connecting, please wait ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:393
+msgid "Searching for ENS name, please wait ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:394
+msgid "Updating profile, please wait ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:395
+msgid "Registering, please wait ..."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:396
+msgid "Close"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:397
+msgid "Switch Wallet"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:398
+msgid ""
+"Are you sure? Disconnecting your wallet will delete your wallet data. You "
+"wont be able to log in with this wallet again. To log out, simply try Log out"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:399
+msgid ""
+"Are you sure? Disconnecting your wallet will delete your wallet data. You "
+"won't be able to log in with this wallet again. You will be logged out of "
+"your current account. To log out, simply try Log out"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:400
+msgid ""
+"Are you sure? Disconnecting your wallet will delete your wallet data. You "
+"won't be able to log in with this wallet again. To log out, simply try Log "
+"out. If you want to disconnect completely, you need to remove this domain "
+"from your wallet's connected sites list."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:401
+msgid ""
+"Are you sure? Disconnecting your wallet will delete your wallet data. You "
+"won't be able to log in with this wallet again. You will be logged out of "
+"your current account. To log out, simply try Log out. If you want to "
+"disconnect completely, you need to remove this domain from your wallet's "
+"connected sites list."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:402
+msgid ""
+"You have disconnected your wallet! We are disconnecting your wallet from "
+"your account."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:403
+msgid ""
+"You have disconnected your wallet! We are disconnecting your wallet from "
+"your account. Please be aware you need to log in first to connect your "
+"wallet again. Or register with a new account."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:404
+msgid ""
+"Your wallet was changed! You have connected this account from different "
+"connections! You can switch or connect with the previous connection."
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:405
+msgid "Please unlock your account first and try again"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:461
+msgid "You can only authenticate with your wallet!"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:478
+msgid "You can only register with your wallet!"
+msgstr ""
+
+#: ../inc/class-login-with-wallet.php:523
+msgid "Recover With Wallet"
+msgstr ""
+
+#: ../inc/class-widget.php:22
+msgid "Add the button. It allows users to connect"
+msgstr ""
+
+#: ../inc/class-widget.php:52
+msgid "Connect"
+msgstr ""
+
+#: ../inc/class-widget.php:55
+msgid "Title:"
+msgstr ""
+
+#: ../inc/class-widget.php:59
+msgid "Button Title:"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:23
+msgid "Connect a wallet"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:44
+msgid "EQUAL Wallet"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:51
+msgid "Coinbase"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:58
+msgid "Nifty"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:65
+msgid "Frame"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:72
+msgid "MetaMask"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:79
+msgid "Download MetaMask"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:88 ../templates/settings.php:66
+msgid "WalletConnect"
+msgstr ""
+
+#: ../templates/modals/choose-wallet.php:100
+msgid "How this app uses APIs?s"
+msgstr ""
+
+#: ../templates/settings.php:19
+msgid "Essential Setup"
+msgstr ""
+
+#: ../templates/settings.php:22
+msgid "Trigger Login"
+msgstr ""
+
+#: ../templates/settings.php:24
+msgid "CSS Selector"
+msgstr ""
+
+#: ../templates/settings.php:25
+msgid ""
+"Trigger login by clicking the element(s) matching this selector. For Example:"
+"menu-item-login"
+msgstr ""
+
+#: ../templates/settings.php:26
+msgid ""
+"You can use this shortcode <code>[login-with-wallet title=\"Connect Wallet"
+"\"]</code>"
+msgstr ""
+
+#: ../templates/settings.php:27
+#, php-format
+msgid "Refer to %s and use the widget"
+msgstr ""
+
+#: ../templates/settings.php:27
+msgid "widgets area"
+msgstr ""
+
+#: ../templates/settings.php:28
+msgid ""
+"Set <code>class=\"login-with-wallet-connect\"</code> to any element on the "
+"page."
+msgstr ""
+
+#: ../templates/settings.php:43
+msgid "WooCommerce Forms"
+msgstr ""
+
+#: ../templates/settings.php:45
+msgid "Enable on WooCommerce"
+msgstr ""
+
+#: ../templates/settings.php:46
+msgid "Adds a button to login/register/Forgot Password Forms"
+msgstr ""
+
+#: ../templates/settings.php:53
+msgid "Wallets"
+msgstr ""
+
+#: ../templates/settings.php:65
+msgid "Injected"
+msgstr ""
+
+#: ../templates/settings.php:65
+msgid ""
+"Auto detect injected wallets. MetaMask, Safe, NiftyWallet, Trust, Dapper, "
+"Coinbase, Cipher, imToken, Status, Tokenry, Opera, Frame, Liquality"
+msgstr ""
+
+#: ../templates/settings.php:66
+msgid "Allows users to log in with their WalletConnect account"
+msgstr ""
+
+#: ../templates/settings.php:81
+msgid "Choose the wallet to support on log in"
+msgstr ""
+
+#: ../templates/settings.php:86
+msgid "Infura Project ID"
+msgstr ""
+
+#: ../templates/settings.php:90
+msgid "WalletConnect is autenticated with this API key only"
+msgstr ""
+
+#: ../templates/settings.php:94
+msgid "Handle ENS"
+msgstr ""
+
+#: ../templates/settings.php:97
+msgid "Using ENS Subgraph"
+msgstr ""
+
+#: ../templates/settings.php:98
+msgid "Directly from Contract"
+msgstr ""
+
+#: ../templates/settings.php:100
+msgid ""
+"ENS subgraph performs faster. Recommended option is MetaMask. It avoids "
+"extra code loads."
+msgstr ""
+
+#: ../templates/settings.php:104
+msgid "Whitelisted Accounts"
+msgstr ""
+
+#: ../templates/settings.php:107
+msgid "Only allow these accounts to be registered. Seperate with commas."
+msgstr ""
+
+#: ../templates/settings.php:111
+msgid "Optional Email"
+msgstr ""
+
+#: ../templates/settings.php:114 ../templates/settings.php:135
+msgid "Yes"
+msgstr ""
+
+#: ../templates/settings.php:115 ../templates/settings.php:134
+msgid "No"
+msgstr ""
+
+#: ../templates/settings.php:117
+msgid ""
+"Makes email field optional on WordPress <code>profile page</code> and "
+"WooCommerce <code>account details page</code>."
+msgstr ""
+
+#: ../templates/settings.php:121
+msgid "If wallet is disconnected"
+msgstr ""
+
+#: ../templates/settings.php:124
+msgid "Log out user"
+msgstr ""
+
+#: ../templates/settings.php:125
+msgid "No action required"
+msgstr ""
+
+#: ../templates/settings.php:127
+msgid "Force users to authenticate via wallet"
+msgstr ""
+
+#: ../templates/settings.php:131
+msgid "Force users"
+msgstr ""
+
+#: ../templates/settings.php:137
+msgid ""
+"Force users to authenticate via wallet and not with WordPress username and "
+"password"
+msgstr ""
+
+#: ../templates/settings.php:141
+msgid "Layout Direction"
+msgstr ""
+
+#: ../templates/settings.php:144
+msgid "Horizontal"
+msgstr ""
+
+#: ../templates/settings.php:145
+msgid "Vertical"
+msgstr ""
+
+#: ../templates/settings.php:147
+msgid "Wallet button(s) layout on the modal"
+msgstr ""
+
+#: ../templates/settings.php:151
+msgid "Modal Intro"
+msgstr ""
+
+#: ../templates/settings.php:157
+msgid "Terms and Conditions"
+msgstr ""
+
+#: ../templates/settings.php:167
+msgid "Save Settings"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Meta Keywords :"
+#~ msgid "Keyword"
+#~ msgstr "کلیدواژه های متا"
+
+#, fuzzy
+#~| msgid "Options"
+#~ msgid "Actions"
+#~ msgstr "گزینه ها"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#, fuzzy
+#~| msgid "No method found"
+#~ msgid "No keywords found!"
+#~ msgstr "روشی پیدا نشد"
+
+#~ msgid "First Name"
+#~ msgstr "نام"
+
+#~ msgid "Last Name"
+#~ msgstr "نام خانوادگی"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Published"
+#~ msgstr "آنلاین"
+
+#~ msgid "Pending"
+#~ msgstr "در حال بازبینی"
+
+#~ msgid "Draft"
+#~ msgstr "پیش نویس"
+
+#~ msgid "Trash"
+#~ msgstr "زباله دان"
+
+#~ msgid "No announcement found."
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Social Profiles"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Zone Name"
+#~ msgstr "نام محدوده"
+
+#~ msgid "Region(s)"
+#~ msgstr "نواحی"
+
+#~ msgid "Shipping Method"
+#~ msgstr "روش حمل و نقل"
+
+#~ msgid "Add Shipping Method"
+#~ msgstr "روش حمل و نقل اضافه کنید"
+
+#~ msgid ""
+#~ "No shipping zone found for configuration. Please contact with admin for "
+#~ "manage your store shipping"
+#~ msgstr ""
+#~ "محدوده حمل و نقلی تعریف نشده است. لطفا با مدیریت تماس بگیرید و سیستم حمل "
+#~ "و نقل شما را تنظیم کنند."
+
+#~ msgid "Cost"
+#~ msgstr "هزینه"
+
+#~ msgid "No Announcement found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Clear All"
+#~ msgstr "پاک کردن همه"
+
+#~ msgid "Clear"
+#~ msgstr "پاک کردن"
+
+#~ msgid "Visible on the product page"
+#~ msgstr "نمایش در صفحه کادو"
+
+#~ msgid "Used for variations"
+#~ msgstr "استفاده برای تنوع دادن به کادو"
+
+#~ msgid "Option..."
+#~ msgstr "گزینه ها..."
+
+#~ msgid "No coupons found!"
+#~ msgstr "کوپنی پیدا نشد!"
+
+#~ msgid "Percentage"
+#~ msgstr "درصد"
+
+#~ msgid "Flat"
+#~ msgstr "نرخ ثابت"
+
+#~ msgid "Duplicate"
+#~ msgstr "کپی کردن"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Variable"
+#~ msgstr "متنوع"
+
+#~ msgid "Group Product"
+#~ msgstr "کادو گروه شده"
+
+#~ msgid "Pending Reivew"
+#~ msgstr "در حال بررسی"
+
+#~ msgid "Accepted"
+#~ msgstr "تایید شده"
+
+#~ msgid "Order"
+#~ msgstr "سفارش"
+
+#~ msgid "Withdraw"
+#~ msgstr "درخواست وجه"
+
+#~ msgid "Refund"
+#~ msgstr "بازگرداندن"
+
+#~ msgid "Shipping"
+#~ msgstr "ارسال"
+
+#~ msgid "Social Profile"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Store SEO"
+#~ msgstr "سئو فروشگاه"
+
+#~ msgid "Shipping Settings"
+#~ msgstr "تنظیمات حمل و نقل"
+
+#~ msgid ""
+#~ "Social profiles help you to gain more trust. Consider adding your social "
+#~ "profile links for better user interaction."
+#~ msgstr ""
+#~ "شبکه های اجتماعی به جلب اعتماد مشتریانتان می افزاید. جهت ارتباط بهتر با "
+#~ "مشتریان خود لینک شبکه های اجتماعی خود را جهت نمایش در صفحه پروفایل خود "
+#~ "وارد نمایید"
+
+#~ msgid ""
+#~ "A shipping zone is a geographic region where a certain set of shipping "
+#~ "methods are offered. We will match a customer to a single zone using "
+#~ "their shipping address and present the shipping methods within that zone "
+#~ "to them."
+#~ msgstr ""
+#~ "محدوده حمل و نقل یک منطقه جغرافیایی است که روش های حمل و نقل خاص خود را "
+#~ "ارائه می دهد. ما هر مشتری را با یک روش بر اساس آدرس ارسال او تطابق می "
+#~ "دهیم و روش ارسال مرتبط با آن را در محدوده تعریف شده ارائه می دهیم."
+
+#~ msgid "If you want to use the previous shipping system then"
+#~ msgstr "اگر شما حمل و نقل های به سیستم قدیمی را می خواهید پس"
+
+#~ msgid "Click Here"
+#~ msgstr "اینجا کلیک کنید"
+
+#~ msgid ""
+#~ "This page contains your store-wide shipping settings, costs, shipping and "
+#~ "refund policy."
+#~ msgstr ""
+#~ "این صفحه تنظیمات سراسری حمل و نقل فروشگاه شما را شامل می شود مانند هزینه، "
+#~ "نحوه ارسال و سیاست های بازگشت کالا"
+
+#~ msgid ""
+#~ "You can enable/disable shipping for your products. Also you can override "
+#~ "these shipping costs while creating or editing a product."
+#~ msgstr "شما می توانید حمل و نقل را برای هر کادو خود فعال / غیرفعال کنید"
+
+#~ msgid "If you want to configure zone wise shipping then"
+#~ msgstr "اگر می خواهید حمل و نقل بر اساس محدوده را داشته باشید پس"
+
+#~ msgid "Add Profile Picture to gain %s%% progress"
+#~ msgstr "افزودن عکس پروفایل %s%% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add %s profile link to gain %s%% progress"
+#~ msgstr "افزودن %s لینک پروفایل %s %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Phone to gain %s%% progress"
+#~ msgstr "افزودن تلفن %s  %%پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Banner to gain %s%% progress"
+#~ msgstr "افزودن عکس بنر فروشگاه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Store Name to gain %s%% progress"
+#~ msgstr "افزودن نام فروشگاه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add address to gain %s%% progress"
+#~ msgstr "افزودن آدرس %s %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add a Payment method to gain %s%% progress"
+#~ msgstr "افزودن روش پرداخت %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Map location to gain %s%% progress"
+#~ msgstr "افزودن مکان نقشه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "This product does not ship to your chosen location: %s"
+#~ msgstr "این کادو امکان ارسال به محل انتخابی شما را ندارد: %s"
+
+#~ msgid "These products do not ship to your chosen location.: %s"
+#~ msgstr "این کادوها امکان ارسال به محل انتخابی شما را ندارد: %s"
+
+#~ msgid "You have no access to save this shipping options"
+#~ msgstr "شما دسترسی لازم جهت ذخیره سازی این حمل و نقل را ندارید"
+
+#~ msgid "Ready to ship in"
+#~ msgstr "آماده ارسال به"
+
+#~ msgid "from"
+#~ msgstr "از"
+
+#~ msgid "Shipping Policy"
+#~ msgstr "سیاست های ارسال"
+
+#~ msgid "Refund Policy"
+#~ msgstr "سیاست های بازگشت کالا"
+
+#~ msgid "Enable Shipping"
+#~ msgstr "فعال سازی حمل و نقل"
+
+#~ msgid "Processing Time"
+#~ msgstr "زمان تحویل"
+
+#~ msgid "%s Discount"
+#~ msgstr "%s تخفیف"
+
+#~ msgid "Coupon Code: <strong>%s</strong>"
+#~ msgstr "کد کوپن: <strong>%s</strong>"
+
+#~ msgid "Expiring in %s"
+#~ msgstr "اعتبار تا %s"
+
+#~ msgid "Updates"
+#~ msgstr "به روزرسانی ها"
+
+#~ msgid "Tools"
+#~ msgstr "ابزارها"
+
+#~ msgid "Completed"
+#~ msgstr "تکمیل شده"
+
+#~ msgid "Processing"
+#~ msgstr "در حال انجام"
+
+#~ msgid "On-hold"
+#~ msgstr "در انتظار بررسی"
+
+#~ msgid "Order Total"
+#~ msgstr "جمع کل سفارش"
+
+#~ msgid "No Announcement Found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "All"
+#~ msgstr "همه "
+
+#~ msgid "Shop Name"
+#~ msgstr "نام فروشگاه (به فارسی)"
+
+#~ msgid "Phone Number"
+#~ msgstr "شماره تلفن "
+
+#~ msgid "No announcement found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Attribute"
+#~ msgstr "ویژگی"
+
+#~ msgid "Manage attributes"
+#~ msgstr "مدیریت ویژگی ها"
+
+#~ msgid "Custom Attribute"
+#~ msgstr "ویژگی دلخواه"
+
+#~ msgid "Add attribute"
+#~ msgstr "افزودن ویژگی"
+
+#~ msgid "Save attribute"
+#~ msgstr "ذخیره ویژگی"
+
+#~ msgid "Product Status"
+#~ msgstr "وضعیت کادو"
+
+#~ msgid "Visibility"
+#~ msgstr "وسعت نمایش"
+
+#~ msgid "Purchase Note"
+#~ msgstr "یادداشت قبل از خرید"
+
+#~ msgid "Customer will get this info in their order email"
+#~ msgstr "مشتریان این اطلاعات را در ایمیل خریدشان دریافت میکنند."
+
+#~ msgid "Enable product reviews"
+#~ msgstr "فعالسازی نقد و بررسی برای این کادو"
+
+#~ msgid "Shipping and Tax"
+#~ msgstr "حمل و نقل و مالیات"
+
+#~ msgid "Manage shipping and tax for this product"
+#~ msgstr "ارسال های عمومی به این روش حمل و نقل افزوده خواهد شد"
+
+#~ msgid "This product requires shipping"
+#~ msgstr "این کادو مستقیما از این فروشگاه ارسال می شود"
+
+#~ msgid "weight (%s)"
+#~ msgstr "وزن (%s)"
+
+#~ msgid "length (%s)"
+#~ msgstr "طول (%s)"
+
+#~ msgid "width (%s)"
+#~ msgstr "عرض(%s)"
+
+#~ msgid "height (%s)"
+#~ msgstr "ارتفاع(%s)"
+
+#~ msgid "Shipping Class"
+#~ msgstr "کلاس حمل و نقل"
+
+#~ msgid "No shipping class"
+#~ msgstr "کلاس حمل و نقلی وجود ندارد"
+
+#~ msgid ""
+#~ "Shipping classes are used by certain shipping methods to group similar "
+#~ "products."
+#~ msgstr ""
+#~ "کلاس های حمل و نقل برای حمل و نقل هایی تعیین شده برای گروهی از کادوها می "
+#~ "باشد"
+
+#~ msgid "Override your store's default shipping cost for this product"
+#~ msgstr ""
+#~ "مبلغ پیش فرض فروشگاه را برای حمل و نقل این کادو با این تنظیمات جایگزین کن"
+
+#~ msgid "Additional cost"
+#~ msgstr "هزینه اضافی"
+
+#~ msgid "Per Qty Additional Price"
+#~ msgstr "قیمت اضافی برای هر تعداد"
+
+#~ msgid "Shipping only"
+#~ msgstr "حمل نقل فقط به "
+
+#~ msgid "Tax Class"
+#~ msgstr "کلاس مالیات"
+
+#~ msgid "All (%d)"
+#~ msgstr "همه (%d)"
+
+#~ msgid " (%d)"
+#~ msgstr "(%d)"
+
+#~ msgid "Booking Status"
+#~ msgstr "وضعیت رزرو"
+
+#~ msgid "Booked Product"
+#~ msgstr "کادو رزرو شده"
+
+#~ msgid "Customer"
+#~ msgstr "مشتری"
+
+#~ msgid "Update"
+#~ msgstr "ذخیره "
+
+#~ msgid "Address:"
+#~ msgstr "آدرس:"
+
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgid "Select product category"
+#~ msgstr "دسته بندی کادو را انتخاب کنید"
+
+#~ msgid "Import"
+#~ msgstr "ایمپورت"
+
+#~ msgid "Export"
+#~ msgstr "اکسپورت"
+
+#~ msgid "Upsells"
+#~ msgstr "فروش همزمان"
+
+#~ msgid "Cross-sells"
+#~ msgstr "فروش تقاطعی"
+
+#~ msgid "Inbox"
+#~ msgstr "اینباکس"
+
+#~ msgctxt "ekado"
+#~ msgid "Vacation"
+#~ msgstr "تعطیلات"
+
+#~ msgid "Vacation <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Vacation <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "تعطیلات <span class=\"count\">(%s)</span>"
+
+#~ msgid "-- Select --"
+#~ msgstr "-- انتخاب --"
+
+#~ msgid "Instantly Close"
+#~ msgstr "بستن ناگهانی"
+
+#~ msgid "Date Wise Close"
+#~ msgstr "بستن زمان دار"
+
+#~ msgid "Go to Vacation"
+#~ msgstr "رفتن به تعطیلات"
+
+#~ msgid "Want to go vacation by closing our store publically"
+#~ msgstr "می خواهید به تعطیلات بروید، بستن فروشگاه برای عموم"
+
+#~ msgid "Closing Style"
+#~ msgstr "استایل بستن "
+
+#~ msgid "Date Range"
+#~ msgstr "محدوده زمانی"
+
+#~ msgid "From"
+#~ msgstr "از "
+
+#~ msgid "Set Vacation Message"
+#~ msgstr "پیام تعطیلات را بنویسید"
+
+#~ msgid "Vacation (%d)"
+#~ msgstr "تعطیلات (%d)"
+
+#~ msgid "In vacation"
+#~ msgstr "در تعطیلات"
+
+#~ msgid "Value(s)"
+#~ msgstr "مقادیر"
+
+#~ msgid "Select terms"
+#~ msgstr "انتخاب "
+
+#~ msgid "Select all"
+#~ msgstr "انتخاب همه"
+
+#~ msgid "Category :"
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Category: "
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Address"
+#~ msgstr "آدرس کامل"
+
+#~ msgid "Upload Photo"
+#~ msgstr "آپلود عکس"
+
+#~ msgid "Sales by day"
+#~ msgstr "فروش روزانه"
+
+#~ msgid "Top selling"
+#~ msgstr "پر فروش ترین ها"
+
+#~ msgid "Top earning"
+#~ msgstr "پر درآمدترین ها"
+
+#~ msgid "Statement"
+#~ msgstr "بیانیه"
+
+#~ msgid "Export All"
+#~ msgstr "اکسپورت همه"
+
+#~ msgid "Opening Balance"
+#~ msgstr "اعتبار اولیه"
+
+#~ msgid "Total :"
+#~ msgstr "مجموع"
+
+#~ msgid "No Result found!"
+#~ msgstr "نتیجه ای پیدا نشد"
+
+#~ msgid "This month's sales"
+#~ msgstr "فروش این ماه"
+
+#~ msgid "Sales in this period"
+#~ msgstr "فروش در این دوره"
+
+#~ msgid "%s sales in this period"
+#~ msgstr "%s فروش در این دوره"
+
+#~ msgid "%s average daily sales"
+#~ msgstr "%s میانگین فروش روزانه"
+
+#~ msgid "%s orders placed"
+#~ msgstr "%s سفارش ثبت شده"
+
+#~ msgid "%s items purchased"
+#~ msgstr "%s آیتم خریداری شده"
+
+#~ msgid "%s charged for shipping"
+#~ msgstr "%s هزینه حمل و نقل"
+
+#~ msgid "%s worth of coupons used"
+#~ msgstr "%s ارزش کوپن ها"
+
+#~ msgid "Sales total"
+#~ msgstr "مجموع فروش"
+
+#~ msgid "Number of orders"
+#~ msgstr "تعداد سفارشات"
+
+#~ msgid "sales"
+#~ msgstr "فروش"
+
+#~ msgid "Product does not exist"
+#~ msgstr "کادو وجود ندارد"
+
+#~ msgid "Earning"
+#~ msgstr "درآمد"
+
+#~ msgid "Shipping: "
+#~ msgstr "حمل و نقل:"
+
+#~ msgid "Discount Type"
+#~ msgstr "نوع تخفیف"
+
+#~ msgid "Product Discount"
+#~ msgstr "تخفیف کادو"
+
+#~ msgid "Product % Discount"
+#~ msgstr "تخفیف درصدی کادو"
+
+#~ msgid "Email Restrictions"
+#~ msgstr "محدودیت براساس ایمیل"
+
+#~ msgid "Email restrictions"
+#~ msgstr "محدودیت براساس ایمیل"
+
+#~ msgid "Usage Limit"
+#~ msgstr "محدودیت استفاده"
+
+#~ msgid "Expire Date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "Exclude Sale Items"
+#~ msgstr "برای کادوهای تخفیف دار اعمال نشود"
+
+#~ msgid "Check this box if the coupon should not apply to items on sale."
+#~ msgstr ""
+#~ "اگر نمی خواهید این تخفیف برای کادوهای تخفیفدار لحاظ شود این گزینه را تیک "
+#~ "بزنید"
+
+#~ msgid ""
+#~ " Per-item coupons will only work if the item is not on sale. Per-cart "
+#~ "coupons will only work if there are no sale items in the cart."
+#~ msgstr ""
+#~ "کوپن های براساس آیتم فقط برای کادوهایی که تخفیف ندارند اعمال می شوند و "
+#~ "کوپن های در هر سبد زمانی اعمال میشوند که کادوی تخفیفدار در سبد خرید وجود "
+#~ "نداشته باشد."
+
+#~ msgid "Minimum Amount"
+#~ msgstr "حداقل مقدار خرید"
+
+#~ msgid "Select Some Product"
+#~ msgstr "چند کادو انتخاب کنید"
+
+#~ msgid "Exclude products"
+#~ msgstr "حذف کادوها از این تخفیف"
+
+#~ msgid "Product categories"
+#~ msgstr "دسته بندی کادوها"
+
+#~ msgid "Any category"
+#~ msgstr "هر دسته بندی"
+
+#~ msgid "Exclude product categories"
+#~ msgstr "حذف دسته بندی کادوها"
+
+#~ msgid "No categories"
+#~ msgstr "هیچ دسته بندی"
+
+#~ msgid "Show on store"
+#~ msgstr "نمایش در فروشگاه"
+
+#~ msgid "Check this box if you want to show this coupon in store page."
+#~ msgstr ""
+#~ "اگر می خواهید این کوپن در صفحه فروشگاه شما نمایش داده شود این گزینه را "
+#~ "تیک بزنید."
+
+#~ msgid "Edit Coupon"
+#~ msgstr "ویرایش کوپن"
+
+#~ msgid "Add Coupon"
+#~ msgstr "افزودن کوپن"
+
+#~ msgid "Add new Coupon"
+#~ msgstr "افزودن کوپن جدید"
+
+#~ msgid "Code"
+#~ msgstr "کد"
+
+#~ msgid "Coupon type"
+#~ msgstr "نوع کوپن"
+
+#~ msgid "Coupon amount"
+#~ msgstr "مقدار کوپن"
+
+#~ msgid "Product IDs"
+#~ msgstr "شناسه کادوها"
+
+#~ msgid "Usage / Limit"
+#~ msgstr "محدودیت استفاده"
+
+#~ msgid "Expiry date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "delete"
+#~ msgstr "حذف"
+
+#~ msgid "Fixed Amount"
+#~ msgstr "نرخ ثابت"
+
+#~ msgid "Percent"
+#~ msgstr "درصد"
+
+#~ msgid "See all"
+#~ msgstr "نمایش همه"
+
+#~ msgid "%s / %s"
+#~ msgstr "%s / %s"
+
+#~ msgid "%s / &infin;"
+#~ msgstr "%s / &infin;"
+
+#~ msgid "Latest Announcement"
+#~ msgstr "آخرین اعلانات"
+
+#~ msgid "See All"
+#~ msgstr "نمایش همه"
+
+#~ msgid "Spam"
+#~ msgstr "هرزنامه"
+
+#~ msgid "Become a Vendor"
+#~ msgstr "فروشنده شوید!"
+
+#~ msgid "Shop URL"
+#~ msgstr "آدرس اینترنتی فروشگاه (URL)"
+
+#~ msgid ""
+#~ "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; "
+#~ "Conditions</a>."
+#~ msgstr ""
+#~ "<a target=\"_blank\" href=\"%s\">قوانین و مقررات</a> را خوانده ام و آ ن "
+#~ "ها را می پذیرم."
+
+#~ msgid "I am a customer"
+#~ msgstr "خریدار هستم"
+
+#~ msgid "I am a vendor"
+#~ msgstr "فروشنده هستم"
+
+#~ msgid "Profile complete"
+#~ msgstr "پروفایل شما کامل شده است"
+
+#~ msgid "Update account to Vendor"
+#~ msgstr "به روزرسانی حساب کاربری به فروشنده"
+
+#~ msgid "Item"
+#~ msgstr "آیتم"
+
+#~ msgid "Qty"
+#~ msgstr "تعداد"
+
+#~ msgid "Total"
+#~ msgstr "مجموع"
+
+#~ msgid "Request Refund"
+#~ msgstr "درخواست مرجوعی"
+
+#~ msgid "Enable bulk discount"
+#~ msgstr "تخفیفات انبوه (تعداد بالا) را فعال کنید"
+
+#~ msgid "Minimum quantity"
+#~ msgstr "حداقل تعداد سفارش"
+
+#~ msgid "Discount %"
+#~ msgstr "تخفیف %"
+
+#~ msgid "Search for a product&hellip;"
+#~ msgstr "کادویی را جستجو کنید &hellip;"
+
+#~ msgid "Linked Products"
+#~ msgstr "کادوهای لینک شده"
+
+#~ msgid "Set your linked products for upsell and cross-sells"
+#~ msgstr "کادوهای لینک شده خود را جهت نمایش همزمان و تقاطعی وارد نمایید"
+
+#~ msgid ""
+#~ "Upsells are products which you recommend instead of the currently viewed "
+#~ "product, for example, products that are more profitable or better quality "
+#~ "or more expensive."
+#~ msgstr ""
+#~ "فروش همزمان کادوهایی هستند که در صفحه ی کادویی که مشتریان در حال بازدید "
+#~ "می باشند نمایش داده می شود. کادوهایی که کیفیت بالاتری، سود بیشتری و یا "
+#~ "حتی قیمت بالاتری دارند و می توانند جایگزین خوبی باشند را در اینجا وارد "
+#~ "نمایید."
+
+#~ msgid ""
+#~ "Cross-sells are products which you promote in the cart, based on the "
+#~ "current product."
+#~ msgstr ""
+#~ "در این نوع فروش کادوها در سبد خرید مشتری نمایش داده می شوند زمانی که این "
+#~ "کادو در سبد وجود داشته باشد."
+
+#~ msgid "Inventory"
+#~ msgstr "انبارداری"
+
+#~ msgid "Discount Options"
+#~ msgstr "تنظیمات تخفیف"
+
+#~ msgid "Set your discount for this product"
+#~ msgstr "تخفیف خود را برای این کادو تنظیم کنید"
+
+#~ msgid " and Variation"
+#~ msgstr " و تنوع"
+
+#~ msgid "Manage attributes and variations for this variable product."
+#~ msgstr "ویژگی ها و تنوعات را برای این کادو مدیریت کنید"
+
+#~ msgid "Manage attributes for this simple product."
+#~ msgstr "ویژگی ها را برای این کادو ساده مدیریت کنید"
+
+#~ msgid "Submitted on "
+#~ msgstr "ارسال شده در "
+
+#~ msgid "Not Spam"
+#~ msgstr "هرزنامه نیست"
+
+#~ msgid "Unapprove"
+#~ msgstr "تایید نشده"
+
+#~ msgid "View Comment"
+#~ msgstr "نمایش نقد و بررسی"
+
+#~ msgid "Comment"
+#~ msgstr "نقد و بررسی"
+
+#~ msgid "Link To"
+#~ msgstr "لینک به"
+
+#~ msgid "-None-"
+#~ msgstr "هیچ"
+
+#~ msgid "Mark Approve"
+#~ msgstr "تایید"
+
+#~ msgid "Mark Spam"
+#~ msgstr "هرزنامه"
+
+#~ msgid "Mark Trash"
+#~ msgstr "زباله دان"
+
+#~ msgid "Mark Not Spam"
+#~ msgstr "هرزنامه نیست"
+
+#~ msgid "Delete permanently"
+#~ msgstr "حذف برای همیشه"
+
+#~ msgid "Approved ("
+#~ msgstr "تایید شده ("
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#~ msgid "Pending ("
+#~ msgstr "در انتظار بررسی ("
+
+#~ msgid "Spam ("
+#~ msgstr "هرزنامه ("
+
+#~ msgid "Trash ("
+#~ msgstr "زباله دان ("
+
+#~ msgid "Discount "
+#~ msgstr "تخفیف"
+
+#~ msgid "Enable storewide discount"
+#~ msgstr "فعال سازی تخفیف سراسری"
+
+#~ msgid "Minimum Order Amount"
+#~ msgstr "حداقل مبلغ خرید"
+
+#~ msgid "SEO Title :"
+#~ msgstr "عنوان سئو"
+
+#~ msgid "SEO Title is shown as the title of your store page"
+#~ msgstr "عنوان سئو به عنوان نام صفحه در نظر گرفته می شود"
+
+#~ msgid "Meta Description :"
+#~ msgstr "توضیحات متا:"
+
+#~ msgid ""
+#~ "The meta description is often shown as the black text under the title in "
+#~ "a search result. For this to work it has to contain the keyword that was "
+#~ "searched for and should be less than 156 chars."
+#~ msgstr ""
+#~ "این متن عموما به عنوان متن توضیحات جستجو در زیر لینک شما در گوگل قرار "
+#~ "میگیرد. برای اینکه این متا تگ کار کند، می بایست کلیدواژه هایی مرتبط با "
+#~ "فروشگاه شما را دربرداشته باشد به گونه ای که از 156 کاراکتر تجاوز نکند."
+
+#~ msgid ""
+#~ "Insert some comma separated keywords for better ranking of your store "
+#~ "page."
+#~ msgstr ""
+#~ "کلیدواژه های جدا شده با کاما (,) را وارد نمایید تا برای موتورهای جستجو گر "
+#~ "بهینه تر شوید. کلمات هر کدام یک کلیدواژه محسوب می شوند"
+
+#~ msgid "Facebook Title :"
+#~ msgstr "عنوان اشتراک گذاری در فیس بوک"
+
+#~ msgid "Facebook Description :"
+#~ msgstr "توضیحات فیسبوک"
+
+#~ msgid "Facebook Image :"
+#~ msgstr "تصویر فیسبوک"
+
+#~ msgid "Twitter Title :"
+#~ msgstr "عنوان توییتر"
+
+#~ msgid "Twitter Description :"
+#~ msgstr "توضیحات توییتر"
+
+#~ msgid "Twitter Image :"
+#~ msgstr "تصویر توییتر"
+
+#~ msgid "Check this if you want to enable shipping for your store"
+#~ msgstr ""
+#~ "این را تیک بزنید اگر می خواهید این حمل و نقل را برای فروشگاه خود فعال کنید"
+
+#~ msgid "Enable shipping functionality"
+#~ msgstr "فعالسازی قابلیت حمل و نقل"
+
+#~ msgid "Default Shipping Price"
+#~ msgstr "هزینه پیش فرض حمل و نقل"
+
+#~ msgid ""
+#~ "This is the base price and will be the starting shipping price for each "
+#~ "product"
+#~ msgstr ""
+#~ "این قیمت پایه می باشد و هزینه حمل و نقل اولیه برای هر آیتم خواهد بود"
+
+#~ msgid "Per Product Additional Price"
+#~ msgstr "قیمت اضافی به ازای هر آیتم"
+
+#~ msgid ""
+#~ "If a customer buys more than one type product from your store, first "
+#~ "product of the every second type will be charged with this price"
+#~ msgstr ""
+#~ "اکر مشتری بیش از یک آیتم خرید که از هم متفاوت بودند، اولین آیتم از هر نوع "
+#~ "هزینه حمل و نقل خواهد داشت."
+
+#~ msgid "Every second product of same type will be charged with this price"
+#~ msgstr "دومین آیتم از نوع خاص با ان قیمت محاسبه خواهد شد."
+
+#~ msgid "The time required before sending the product for delivery"
+#~ msgstr "زمان مورد نیاز قبل از ارسل کادو برای تحویل"
+
+#~ msgid "Write your terms, conditions and instructions about shipping"
+#~ msgstr "شرایط و قوانین خود را برای این حمل و نقل بنویسید"
+
+#~ msgid "Write your terms, conditions and instructions about refund"
+#~ msgstr "شرایط و قوانین خود درباره بازگشت کالا را نیز بنویسید"
+
+#~ msgid "Ships from:"
+#~ msgstr "ارسال از "
+
+#~ msgid ""
+#~ "Add the countries you deliver your products to. You can specify states as "
+#~ "well. If the shipping price is same except some countries/states, there "
+#~ "is an option <strong>Everywhere Else</strong>, you can use that."
+#~ msgstr ""
+#~ "کشورهایی که شما به آن ها ارسال میکنید را اضافه کنید. شما می توانید استان "
+#~ "ها را نیز مدیریت نمایید. اگر حمل و نقل عموما ثابت است به جز برخی از استان "
+#~ "ها، گزینه دیگر به نام همه جای دیگر می توانید استفاده نمایید."
+
+#~ msgid "Ship to"
+#~ msgstr "ارسال به"
+
+#~ msgid "Add Location"
+#~ msgstr "افزودن مکان"
+
+#~ msgid "Update Settings"
+#~ msgstr "به روزرسانی تنظیمات"
+
+#~ msgid "% Profile complete"
+#~ msgstr "% پروفایل شما کامل شده است."
